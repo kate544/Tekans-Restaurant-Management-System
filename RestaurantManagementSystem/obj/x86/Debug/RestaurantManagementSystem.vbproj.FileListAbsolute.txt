@@ -1,0 +1,16 @@
+C:\Users\vnnba\Documents\Visual Studio 2010\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\Restaurant_Management_System.Form1.resources
+C:\Users\vnnba\Documents\Visual Studio 2010\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\Restaurant_Management_System.Form2.resources
+C:\Users\vnnba\Documents\Visual Studio 2010\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\Restaurant_Management_System.Form3.resources
+C:\Users\vnnba\Documents\Visual Studio 2010\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\Restaurant_Management_System.Resources.resources
+C:\Users\vnnba\Documents\Visual Studio 2010\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\RestaurantManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\vnnba\Documents\Visual Studio 2010\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\Restaurant Management System.pdb
+C:\Users\vnnba\Documents\Visual Studio 2010\Projects\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\Restaurant Management System.exe
+C:\Users\vnnba\Documents\Visual Studio 2010\Projects\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\Restaurant Management System.pdb
+C:\Users\vnnba\Documents\Visual Studio 2010\Projects\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\Restaurant Management System.xml
+C:\Users\vnnba\Documents\Visual Studio 2010\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\Restaurant Management System.exe
+C:\Users\vnnba\Documents\Visual Studio 2010\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\Restaurant Management System.xml
+C:\Users\vnnba\Documents\Visual Studio 2010\Projects\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\Restaurant Management System.exe.config
+C:\Users\vnnba\Documents\Visual Studio 2010\Projects\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\Restaurant Management System.exe.manifest
+C:\Users\vnnba\Documents\Visual Studio 2010\Projects\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\Restaurant Management System.application
+C:\Users\vnnba\Documents\Visual Studio 2010\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\Restaurant Management System.exe.manifest
+C:\Users\vnnba\Documents\Visual Studio 2010\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\Restaurant Management System.application
